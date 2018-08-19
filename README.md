@@ -9,7 +9,7 @@ The main concept behind the project is Image Classification using Convolutional 
 * This dataset contains 16000 images which includes pre-annotated information about the emblem and brand name.
 * Each image has either 1600x1200 or 1920x1080 resolution
 * After Augmentation, each logo consists of ~500 images.
-* You can get the dataset here: Flickr
+* You can get the dataset here: http://image.ntua.gr/iva/datasets/flickr_logos/
 
 ### Ruggedness to shifts and distortion in the image:
 Detection using CNN is rugged to distortions such as change in shape due to camera lens, different lighting conditions, different poses, presence of partial occlusions, horizontal and vertical shifts, etc. However, CNNs are shift invariant since the same weight configuration is used across space.
