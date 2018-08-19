@@ -30,4 +30,8 @@ For more and better colcusions, please refer to the Project report.
 
 
 ## License
-This project is licensed under the MIT License - see the file LICENSE.md for details
+The text in the document by Dinesh Maria Antony, Inchara Niyanta, Kanika Nama is licensed under CC BY 3.0 
+https://creativecommons.org/licenses/by/3.0/us/
+
+The Code in the document by Dinesh Maria Antony, Inchara Niyanta, Kanika Nama is licensed under the MIT License
+https://opensource.org/licenses/MIT
